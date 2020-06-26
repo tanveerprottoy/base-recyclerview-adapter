@@ -1,0 +1,3 @@
+rootProject.name='Base RecyclerView Adapter'
+include ':app'
+include ':baserecyclerviewadapter'
