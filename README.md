@@ -15,7 +15,7 @@ allprojects {
 
 app level build.gradle
 ```
-implementation 'com.github.tanveerprottoy:base-recyclerview-adapter:1.1'
+implementation 'com.github.tanveerprottoy:base-recyclerview-adapter:1.0'
 ```
 
 Usage
