@@ -15,6 +15,10 @@ allprojects {
 
 app level build.gradle
 ```
+buildFeatures {
+    dataBinding true
+}
+
 implementation 'com.github.tanveerprottoy:base-recyclerview-adapter:1.0'
 ```
 
