@@ -15,11 +15,15 @@ allprojects {
 
 app level build.gradle
 ```
-buildFeatures {
-    dataBinding true
+android {
+    buildFeatures {
+        dataBinding true
+    }
 }
 
-implementation 'com.github.tanveerprottoy:base-recyclerview-adapter:1.0'
+dependencies {
+    implementation 'com.github.tanveerprottoy:base-recyclerview-adapter:1.0'
+}
 ```
 
 Usage
